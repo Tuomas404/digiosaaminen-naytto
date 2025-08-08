@@ -3,7 +3,7 @@
 Tämä GitHub-projekti esittelee osaamistani digitaalisten ympäristöjen ja sovellusten käytössä, erityisesti ammatillisten verkostojen kontekstissa.
 
 ## Sisältö
-- Infografiikka: [infografiikka.png](infografiikka.png)
+- Infografiikka: https://github.com/Tuomas404/digiosaaminen-naytto/blob/main/digiosaaminen-naytto/docs/How%20SSH%20Keys%20Work.png
 - Dokumentaatio: SSH-avaimen luominen ja käyttö (docs/ssh_ohje.md)
 - Esimerkki: Trello-työskentelyn kuvaus (docs/trello_kuvaus.md)
 
